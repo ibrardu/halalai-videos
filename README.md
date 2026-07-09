@@ -34,6 +34,7 @@ pairs the recitation with a careful translation, verse by verse.
 | Ad-Duha (الضحى) — Surah 93 | [`ad-duha`](https://github.com/ibrardu/halalai-videos/releases/tag/ad-duha) | ar · en · ur · de | 7 July 2026 |
 | Ad-Duha (الضحى) — Surah 93, part 2 (8–11) | [`ad-duha-2`](https://github.com/ibrardu/halalai-videos/releases/tag/ad-duha-2) | ar · en · ur · de | 8 July 2026 |
 | Ash-Sharh (الشرح) — Surah 94 | [`ash-sharh`](https://github.com/ibrardu/halalai-videos/releases/tag/ash-sharh) | ar · en · ur · de | 9 July 2026 |
+| Al-Qadr (القدر) — Surah 97 | [`al-qadr`](https://github.com/ibrardu/halalai-videos/releases/tag/al-qadr) | ar · en · ur · de | 9 July 2026 |
 
 The full log lives in the [release log issue](https://github.com/ibrardu/halalai-videos/issues/1).
 
