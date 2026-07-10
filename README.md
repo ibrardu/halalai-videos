@@ -30,6 +30,7 @@ pairs the recitation with a careful translation, verse by verse.
 
 | Surah | Release | Languages | Published |
 |---|---|---|---|
+| Al-Kawthar (الكوثر) — The Abundance · Surah 108 | [`al-kawthar`](https://github.com/ibrardu/halalai-videos/releases/tag/al-kawthar) | ar · en · ur · de | 10 July 2026 |
 | Al-Fatiha (الفاتحة) — Surah 1 | [`al-fatiha`](https://github.com/ibrardu/halalai-videos/releases/tag/al-fatiha) | ar · ur · de | 7 July 2026 |
 | Ad-Duha (الضحى) — Surah 93 | [`ad-duha`](https://github.com/ibrardu/halalai-videos/releases/tag/ad-duha) | ar · en · ur · de | 7 July 2026 |
 | Ad-Duha (الضحى) — Surah 93, part 2 (8–11) | [`ad-duha-2`](https://github.com/ibrardu/halalai-videos/releases/tag/ad-duha-2) | ar · en · ur · de | 8 July 2026 |
