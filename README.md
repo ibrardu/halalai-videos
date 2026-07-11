@@ -30,6 +30,7 @@ pairs the recitation with a careful translation, verse by verse.
 
 | Surah | Release | Languages | Published |
 |---|---|---|---|
+| Al-Ikhlas (الإخلاص) — The Sincerity · Surah 112 | [`al-ikhlas`](https://github.com/ibrardu/halalai-videos/releases/tag/al-ikhlas) | ar · en · ur · de | 11 July 2026 |
 | Al-Kawthar (الكوثر) — The Abundance · Surah 108 | [`al-kawthar`](https://github.com/ibrardu/halalai-videos/releases/tag/al-kawthar) | ar · en · ur · de | 10 July 2026 |
 | Al-Fatiha (الفاتحة) — Surah 1 | [`al-fatiha`](https://github.com/ibrardu/halalai-videos/releases/tag/al-fatiha) | ar · ur · de | 7 July 2026 |
 | Ad-Duha (الضحى) — Surah 93 | [`ad-duha`](https://github.com/ibrardu/halalai-videos/releases/tag/ad-duha) | ar · en · ur · de | 7 July 2026 |
